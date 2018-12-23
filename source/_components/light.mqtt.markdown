@@ -15,7 +15,7 @@ redirect_from:
  - /components/light.mqtt_template/
 ---
 
-The `mqtt` light platform with lets you control your MQTT enabled lights through one of the supported message schemas.
+The `mqtt` light platform which lets you control your MQTT enabled lights through one of the supported message schemas.
 
 ## {% linkable_title Comparison of light MQTT schemas %}
 
